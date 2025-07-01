@@ -11,6 +11,7 @@ class Vertex:
 			self.neighbors.append(v)
 			self.neighbors.sort()
 a
+sss
 class Graph:
 	vertices = {}
 	
