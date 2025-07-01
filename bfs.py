@@ -10,7 +10,7 @@ class Vertex:
 		if v not in self.neighbors:
 			self.neighbors.append(v)
 			self.neighbors.sort()
-
+a
 class Graph:
 	vertices = {}
 	
